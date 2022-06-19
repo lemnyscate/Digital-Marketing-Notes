@@ -1,0 +1,50 @@
+------------------------------------------------------------------------------------------
+1. Using data to understand audiences
+------------------------------------------------------------------------------------------
+
+If you haven't already done so, setting up analytics on your website is one of the best ways to start collecting data. This will give you some good baseline information to take forward, allowing you to make adjustments and improvements to your strategy. If you already have analytics installed, start recording some of your monthly figures in a table to monitor progress. What changes do you see?
+
+
+
+
+------------------------------------------------------------------------------------------
+2. Understanding the Data Cycle
+------------------------------------------------------------------------------------------
+
+Create a post for one of your social media platforms, then use the analytics tools built into the platform to see who is looking at your posts and when. Compare this information to the data on other posts you've published previously. Using the Plan, Do, Check and Act cycle we discussed in the lesson, build and improve upon your social post, using data to inform your next steps. What would you do differently?
+
+
+
+
+------------------------------------------------------------------------------------------
+3. Creating actionable insights from your data
+------------------------------------------------------------------------------------------
+
+Using social media metrics, create insights based on the data at your disposal. Use this information to improve future posts:
+
+    - What works for your audience, and what doesn't?
+    - Does posting at a particular time of day likely to make it more successful?
+    - Are posts with images more engaging?
+    - If you tag another person or business in the post, do you see more success?
+
+This information should form part of your strategy going forward, and help you to improve future campaigns.
+
+
+
+------------------------------------------------------------------------------------------
+4. Managing numbers using spreadsheets
+------------------------------------------------------------------------------------------
+
+Spreadsheets are a great place to store and manage your digital marketing data. Think of your social media data and try creating a spreadsheet that can be used to track all of your social media metrics on a daily basis. 
+1. Create a row for each social media channel 
+2. In the columns, input the following in the first row: number of followers, total number of 'likes' (or other social media metrics from each platform), engagement (for example, for Twitter this would be retweets/replies, for Facebook this would be shares/comments), and any other metric useful to your specific goals (such as hashtag use or conversion rates). 
+3. Use formulas to calculate the totals and averages. Be sure to update the table regularly with the latest data so that you can review how each social media channel performs over time.
+
+
+
+
+------------------------------------------------------------------------------------------
+5. Presenting data effectively
+------------------------------------------------------------------------------------------
+
+Extract certain data metrics, such as number of visitors to your website, from your online analytics tools. Present this information in a few different formats. Try sending the different options to colleagues or friends, and see which visual display they prefer.

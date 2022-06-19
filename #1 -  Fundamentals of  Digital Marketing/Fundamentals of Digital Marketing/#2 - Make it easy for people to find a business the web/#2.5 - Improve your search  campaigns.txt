@@ -1,0 +1,75 @@
+------------------------------------------------------------------------------------------
+Introduction
+------------------------------------------------------------------------------------------
+
+The world of Search Engine Marketing (SEM) is full of opportunities, but to benefit you’ll first need to master research tools and keyword selection. From there, you can improve and optimise your search campaigns to ensure you get maximum value for what you spend.
+
+
+
+------------------------------------------------------------------------------------------
+1. Achieve relevance with good structure
+------------------------------------------------------------------------------------------
+
+Q. To succeed as an advertiser, you need to create adverts that help searchers find what they’re looking for – and when you do, search engines may reward you. In this video, you’ll learn:
+    - how SEM campaigns are structured
+    - how to use that structure to achieve relevance
+    - the benefits you’ll get by focusing on relevance.
+
+A. Grouping keywords and ads this way means that Anna can show ads that are relevant to what customers are searching for.
+
+If someone searches for ‘candid wedding photos’ they see the ad specifically for her wedding photography services.
+
+Anna can run different campaigns for these ads and keep track of them separately.
+
+
+
+------------------------------------------------------------------------------------------
+2. Get the most from your keywords
+------------------------------------------------------------------------------------------
+
+Q. Search engines, like Google and Bing, offer tools that take the guesswork out of choosing the right keywords, and can help potential customers find you online. We'll talk about:
+    - research tools
+    - related searches
+    - negative keywords.
+
+A. Anna can choose these ‘negative keywords’ to avoid people seeing her ad when they search using those keywords.
+
+For example, if someone were to search for ‘Watercolour family portrait’ Anna wouldn’t want her ad to appear as her portraits are photographs.
+
+Similarly, if someone were to search for ‘Buy landscape photo’ Anna’s portraits wouldn’t be relevant either.
+
+Identifying negative keywords means when people see Anna’s ad it’s because it’s relevant to what they are looking for.
+
+
+
+------------------------------------------------------------------------------------------
+3. Fine-tune with keyword match types
+------------------------------------------------------------------------------------------
+
+Q. Search engine marketing (SEM) is great for letting you choose specific searches to trigger your ads. But search engines often show your ads for keywords that are slightly different from the ones you’re targeting. The solution: keyword match types. This video explains:
+    - what match types are and why they’re useful
+    - the different kinds of match types
+    - how to control which searches may trigger ads.
+
+A. Refining keywords by changing them from ‘broad match’ to ‘phrase match’ and ‘exact match’ means that Anna will probably notice a decrease in traffic, but the quality of the traffic she gets will increase. That’s because when her ad appears to a customer, it’s likely to be relevant to what the customer is looking for.
+
+‘Photography, portraits’ is a broad match and also a plural, so may have nothing to do with Anna’s business. It could also be someone looking for tips on how to set up their own camera for a portrait, for example. If they click on Anna’s ad, it costs Anna if her ad is in the paid ads.
+
+By narrowing keywords to exact matches like ‘Film themed portrait photography, low cost’ Anna is more likely to get traffic for her more niche business, and therefore paying customers
+
+
+
+------------------------------------------------------------------------------------------
+4. How to know what's working and what isn't
+------------------------------------------------------------------------------------------
+
+Q. One of the best ways to measure how well your search engine marketing is working is by tracking conversions, or actions you’d like website visitors to take. In this video, we’ll cover:
+    - what conversions are
+    - how to choose the ones you want to measure
+    - what tools you can use to track them.
+
+A. Anna should place the code on the enquiry confirmation page.
+
+If she places the conversion tracking code on the page that appears when a customer has sent their enquiry, she’ll know when a customer has actually sent an enquiry. Her data won’t get mixed up with people who have visited the enquiries page but decided not to send an enquiry.
+
+When Anna installs the code, she’ll get reports telling her how many conversions she got.

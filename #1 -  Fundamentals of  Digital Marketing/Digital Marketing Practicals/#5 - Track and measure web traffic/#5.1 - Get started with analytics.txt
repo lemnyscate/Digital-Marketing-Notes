@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------
+1. What is web analytics?
+------------------------------------------------------------------------------------------
+
+Do a search for “web analytics tools” and open an account with one of the tools that you like. Google Analytics could be a great place for you to start.
+
+
+
+
+------------------------------------------------------------------------------------------
+2. Making web analytics work for you
+------------------------------------------------------------------------------------------
+
+Think about the big-picture goals for your business. Are you trying to maximise revenue? To improve margins? To cut costs? How do your website and your online marketing campaigns help you achieve those goals? Write down your thoughts – this will help focus your efforts with analytics.
+
+
+
+
+------------------------------------------------------------------------------------------
+3. Tracking specific goals with web analytics
+------------------------------------------------------------------------------------------
+
+Next Steps: Take a look at your website. Why do you have a website? Write down every answer you can think of, because that's a goal you can track with analytics.

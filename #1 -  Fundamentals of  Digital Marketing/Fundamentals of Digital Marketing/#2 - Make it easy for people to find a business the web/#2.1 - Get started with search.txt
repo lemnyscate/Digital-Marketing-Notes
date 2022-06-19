@@ -1,0 +1,107 @@
+------------------------------------------------------------------------------------------
+Introduction
+------------------------------------------------------------------------------------------
+
+Search engines make it simple to find what you're looking for with a click of a button. But how do they work, and how can you improve your visibility on them? Learn the difference between organic and paid search results and why advertising on search engines is so effective.
+
+
+
+
+------------------------------------------------------------------------------------------
+1. Search engine basics
+------------------------------------------------------------------------------------------
+
+Q. Search engines catalogue the Internet to help connect searchers with exactly what they're looking for. That makes them a great marketing tool. This video covers:
+	- a brief history of search engines
+	- how search engines changed business
+	- why search is a good place to start.
+
+A. Search engines allow people to look for the product or service they want, at the precise time they want it. They can also help businesses to target the customers who are most interested in what they’re offering.
+
+The mix of these benefits is what makes advertising in search engines so relevant for most businesses – they can appear exactly when potential customers are looking for what those businesses offer.
+
+
+
+
+------------------------------------------------------------------------------------------
+2. How search engine work
+------------------------------------------------------------------------------------------
+
+Q. Search engines examine all the pages on the World Wide Web, categorise them and put them into a logical order when you search for something. Understanding how this works can help your business. This video will cover:
+	- how search engines find web pages
+	- what they do with the web pages they find
+	- how they decide what to show on search results pages.
+
+A. They’re all good ways of making Seth’s website relevant, apart from pasting in content from another site. If lots of sites use the same content then it will be hard for any one of them to stand out in the search list.
+
+How search engines rank sites is their ‘special sauce’ – the details of exactly how this works is a closely guarded secret.
+
+However, it’s safe to assume that Seth’s ideas above (apart from the one that suggests pasting content) are all likely to have a positive effect on his search visibility.
+
+
+
+------------------------------------------------------------------------------------------
+3. How search engines see the web
+------------------------------------------------------------------------------------------
+
+Q. If you want to make sure your website turns up in more search engine results, stay tuned for this video, which includes:
+	- how search engines understand what's on a web page
+	- which parts of a web page help search engines do this
+	- how to make your web pages more visible to search engines.
+
+A. Using accurate labels for images helps search engines to pick them up when people make relevant searches. Using generic file names, like image3.jpg, can be counterproductive as they’re unlikely to appear in a specific search.
+
+In the same way, using accurate page titles can also help websites appear in relevant search results.
+
+Lastly, using the kinds of keywords that interested people might be searching for – such as ‘fair trade’ or ‘cappuccino’ – will mean that Seth’s website is more likely to be displayed in their search results.
+
+
+
+------------------------------------------------------------------------------------------
+4. Organic search explained
+------------------------------------------------------------------------------------------
+
+Q. When a person types in a word or phrase on a search engine, a list of results appears with links to web pages and other content related to the search. This video covers the content found in the organic results. You'll learn:
+	- what organic results are
+	- what search engine optimisation (SEO) is
+	- how good website content affects the organic search results.
+
+A. The organic search results are the main list of results the search engine displays. They are usually the main focus on the results page. There’s no cost for businesses to appear in the organic results.
+
+Option 1 shows results for local businesses and a map showing their locations.
+
+Option 2 shows the paid results, or adverts, which we’ll hear more about later.
+
+
+
+------------------------------------------------------------------------------------------
+5. Paid search explained
+------------------------------------------------------------------------------------------
+
+Q. When a person types in a word or phrase on a search engine, a list of results appears with links to web pages and other content related to the search. This results page is organised into different sections; this video covers the adverts. You'll learn:
+	- a bit about advertising on search engines
+	- why advertising on search engines is so effective
+	- how advertisers compete for an opportunity to show ads on the search results page.
+
+A. Paid search ad results are targeted at people who are already looking for a particular kind of product or service. This means Seth’s marketing will be seen by people who are already very likely to make a visit to his shop.
+
+Although they contain the same content as organic search results, paid ad results have a different position on the page. In addition, it’s usually made clear to people that these are adverts or paid results, so users are aware they are clicking on an ad, and there’s no trickery involved.
+
+A great benefit for Seth is that he’s only charged if users click on the ad, not by how many times it appears in the search results.
+
+
+
+------------------------------------------------------------------------------------------
+6. Google search console
+------------------------------------------------------------------------------------------
+
+Q. When it comes to your website, the more information you have, the better. In this video you'll learn:
+	- what Search Console is, and how it can help
+	- some of its useful features
+	- how to set it up.
+
+A. Google Search Console can help Seth to figure out if the keywords he’s using on his website are helping it appear in the search results for the kinds of searches his customers are making. It can also show him whether appearing in these results is translating into visits to his website from potential customers.
+
+Google Search Console can recommend better page titles, but it can’t recommend more effective content for Seth to use, or show him the type of people who usually search for businesses like his.
+
+Google Search Console presents information for Seth to review, and in some cases like mobile usability will give specific recommendations on how to fix issues.

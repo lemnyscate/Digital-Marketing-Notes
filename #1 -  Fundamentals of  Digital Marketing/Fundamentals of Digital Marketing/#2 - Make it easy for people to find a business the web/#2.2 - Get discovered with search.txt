@@ -1,0 +1,93 @@
+------------------------------------------------------------------------------------------
+Introduction
+------------------------------------------------------------------------------------------
+
+Search Engine Optimisation might sound like a mouthful, but once you understand how search engines work you'll be on your way to becoming SEO confident. Learn how to develop an adaptable SEO plan, identify the most effective keywords, and which tools can help you measure what matters.
+
+
+
+------------------------------------------------------------------------------------------
+1. Intro to search engine optimisation (SEO)
+------------------------------------------------------------------------------------------
+
+Q. Understanding how search engines work can help your business improve its online presence. This video explains:
+	- what search engine optimisation is
+	- how search engines understand your website
+	- what they value most.
+
+A. When a search engine returns results some of them are paid advertisements. These tend to appear at the top and side of the page.
+
+The main list, starting underneath the paid advertisements, shows unpaid results that the search engines believe are relevant to the search phrase. These results are called ‘organic results’ and this is where Eric’s website will appear once he’s not using paid search advertising.
+
+
+
+------------------------------------------------------------------------------------------
+2. The Importance of SEO plan
+------------------------------------------------------------------------------------------
+
+Q. In this step-by-step process to create an SEO plan for your website, you'll learn how to:
+	- develop
+	- prioritise
+	- adjust the plan to best suit your goals.
+
+A. There are four steps to creating an SEO plan.
+
+First, Eric should do some keyword research and consider related topics. That way he’ll know what people are searching for.
+
+Next, he should see where he appears in the search results for those keywords. If there are gaps where keywords aren’t bringing traffic to his site, Eric should plan ways to fix these gaps and improve SEO performance.
+
+
+
+------------------------------------------------------------------------------------------
+3. The SEO process
+------------------------------------------------------------------------------------------
+
+Q. This video explains the SEO process and the steps you need to take in order to optimise your website, including:
+	- discovering what words or phrases people use to search for your products or services
+	- improving the content on your site.
+
+A. SEO work is never finished – search engines evolve and so do trends.
+
+That means you should refine your keywords over time and don’t assume that if something works you can keep doing the same thing forever. Instead, keep up with how search engines work and how they’re changing.
+
+Get inspiration from other websites and don’t forget to get feedback from your customers.
+
+Remember, no agency can grant you top organic search positions. If someone does offer you this then it’s probably a scam.
+You can use Google Trends to research keywords.
+
+
+
+------------------------------------------------------------------------------------------
+4. How to choose keywords
+------------------------------------------------------------------------------------------
+
+Q. Choosing keywords is the cornerstone of successful search engine optimisation. In this video, we'll discuss:
+	- why you need to do keyword research
+	- the difference between short tail and long tail keywords
+	- what to consider when selecting keywords.
+
+A. The long tail of SEO means longer keyword phrases that are very specific to whatever you’re selling.
+
+These have a low search volume, which means there’s less competition, so it’s more likely to be relevant to a user’s queries.
+
+_____
+Note:
+-----------
+Through all your SEO efforts, remember the golden rule: Your site's content should be made for your human visitors, not for search engines.
+
+Don't add extra keywords or variations of keywords to your pages. Repeating them unnecessarily is called "keyword stuffing" and is against search engines' guidelines. So that’s what you need to consider when selecting keywords: frequency, competition and relevance. Keeping these things in mind will set you on the right track for successful SEO.
+
+
+
+------------------------------------------------------------------------------------------
+5. Setting realistic SEO goals
+------------------------------------------------------------------------------------------
+
+Q. Setting realistic goals for organic traffic and assessing them with measurements that matter will help you strengthen your SEO strategy. In this video, you'll learn:
+	- how to define success
+	- how to select measurements that matter
+	- what tools can help.
+
+A. Analytics tools are a great way to get information about how content is performing, who visits the site and turns into a customer, and what content they interact with.
+
+It will give Eric most of this information, but won’t tell him whether customers enjoy the fruit and veg they buy from his store.

@@ -1,0 +1,57 @@
+------------------------------------------------------------------------------------------
+Introduction
+------------------------------------------------------------------------------------------
+
+Once your online shop is set up, it's time to ensure everything is optimised correctly so that customers have the smoothest user experience possible. Each touchpoint is an important communication opportunity between you and your customers: from signing in and browsing to checking out and receiving promotions about sales.
+
+
+
+------------------------------------------------------------------------------------------
+1. Creating a smooth e-commerce experience
+------------------------------------------------------------------------------------------
+
+Q. Once you’ve taken your first steps into e-commerce, your next job is to improve the shopping experience. From getting more people to use your online shopping basket to streamlining the checkout process, there are lots of ways to improve your site for shoppers. In this video, you’ll learn how to use analytics to optimise:
+    - for different devices
+    - navigation and search
+    - product pages
+    - checkout by using customer accounts.
+
+A. If she sees people access her shop a lot from their mobiles, Jo can introduce responsive design to improve her customers’ browsing experience.
+
+Adding a search feature will help people search for and quickly locate specific products.
+
+Improving product pages could be the answer if lots of people visit but don’t buy from her shop.
+
+Finally, customer accounts can simplify the check-out process, helping people complete their purchases more easily.
+
+
+
+------------------------------------------------------------------------------------------
+2. Product promotion and merchandising
+------------------------------------------------------------------------------------------
+
+Q. If you have an e-commerce store, you probably offer a number of different products. Sometimes it can be difficult for customers to find the best match for their needs. Product promotion and merchandising can help. In this video, we'll look at:
+    - promoting products and specials
+    - predicting products your customers might like
+    - showcasing products visitors might not normally see.
+
+A. Jo can use product recommendation engines to show related products and introduce customers to new products they might not have considered before.
+
+Adding a video tour or evaluating who is visiting the site won't help increase people’s awareness of different products.
+
+
+
+------------------------------------------------------------------------------------------
+3. Retargeting for e-commerce
+------------------------------------------------------------------------------------------
+
+Q. After shoppers have interacted with your website, product retargeting campaigns can help you get them back by showing them related ads across the web. In this video, we'll look at:
+    - what product retargeting is
+    - how product retargeting works
+    - tips for successful retargeting campaigns.
+
+A. Jo can measure how customers interact with each ad type. She can also check her campaign’s conversion rates to see how customers respond.
+
+Checking comments on her social media profile is unlikely to be as effective as the other options as it won’t show in detail how customers interact with the retargeting campaign.
+
+Finally, looking at how many pages visitors check before they leave the site won’t tell her whether those users are potential customers.

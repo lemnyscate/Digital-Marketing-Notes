@@ -1,0 +1,14 @@
+------------------------------------------------------------------------------------------
+1. Using e-commerce to sell
+------------------------------------------------------------------------------------------
+
+Think about how your business will use e-commerce, and write down a list of features and requirements you'll need to achieve your business objectives.
+
+
+
+
+------------------------------------------------------------------------------------------
+2. Taking payments and managing orders
+------------------------------------------------------------------------------------------
+
+Think about your current website and your own business needs. Are you ready for a full e-commerce platform? Or would it be easier to start out with a third-party payment processing solution?

@@ -1,0 +1,126 @@
+------------------------------------------------------------------------------------------
+Introduction
+------------------------------------------------------------------------------------------
+
+From websites to local listings, mobile apps to social media, there are lots of ways to be found online. If a website is the best fit for your goals, you'll need to have a basic grasp of how they work. Even more importantly, having design and usability best practices under your belt will help you build a website that tells your story well, and allow your customers to find what they need.
+
+
+
+------------------------------------------------------------------------------------------
+1. Choosing your online presence
+------------------------------------------------------------------------------------------
+
+Q. There’s more than one place for people to find you online. In this lesson we’ll explore just how important being online is these days, as well as some common ways to do it, including:
+	- websites
+	- local business listings and review sites
+	- social media
+	- mobile apps.
+
+A. A social media profile is a quick, simple and cheap way for Addie to establish an online presence. This should be the first step she takes to help customers engage with her and her business.
+
+After Addie has established her social media profile, she can then look at longer-term investments such as building a mobile app, which could help customers find out more information and place orders.
+
+
+
+
+------------------------------------------------------------------------------------------
+2. How websites work
+------------------------------------------------------------------------------------------
+
+Q. If your business needs a website, the first step is to understand the basics. Here’s a quick summary of what you’ll need to know:
+	- what web servers do
+	- how domain names work
+	- how your website uses these.
+
+A. To launch a website you need to get what’s called hosting space. Think of it like a plot of land for a house. Sometimes you have to pay a fee. In some cases it’s free. So do shop around before making your choice.
+
+This ‘plot of land’ is one of many within a server. Think of a server as a street where many companies rent out space for websites. A bit like sharing the same postcode.
+
+Each server has what’s called an IP, or internet protocol, address. This is made up of a string of numbers that can be located by any device that has internet access.
+
+Every website has a domain name. This is everything after the www. or World Wide Web part. You can think of this as the physical address of your house.
+
+But what if someone wants to find you, or in this case your website? They’d use a browser like Google Chrome. This locates and retrieves the website information, and then displays it. How long a website takes to load depends on things such as the amount and type of information, and internet speeds.
+
+
+
+
+------------------------------------------------------------------------------------------
+3. Key website ingredients
+------------------------------------------------------------------------------------------
+
+Q. A website consists of many parts. Build and blend them right, and you’re sure to succeed. In this lesson, we’ll cover:
+	- your name
+	- the website’s organisation
+	- text, photos and other interactive elements.
+
+A. The best website address for Addie’s business would be: www.kneadtoknowbakery.com
+
+Having the name of the business in the website’s domain name is the best idea for Addie. That way it’s easy for customers to find her online, and also recognise her business in town.
+
+A good domain name should be short but also relevant. While Addie’s, i-knead-it and mybakery are all short, they don’t reflect the business name, and so won’t help customers to find her in the real world.
+
+Knead2Know includes the business name but not exactly what the business does. Addie can keep it simple with www.kneadtoknowbakery.com
+
+
+
+
+------------------------------------------------------------------------------------------
+4. Websites and your business goals
+------------------------------------------------------------------------------------------
+
+Q. When creating your website, consider how to combine your business goals with what your visitors want. In this lesson, we'll talk about:
+	- using your site to further your business goals
+	- thinking like a customer
+	- telling your story online.
+
+A. Addie needs to write in a tone that’s confident, but not intimidating.
+
+For her business, everyday language would be suitable, but it may not be appropriate for businesses such as law firms. The tone Addie uses should tell the story of the business and what it offers.
+
+The second option uses far too much business jargon. A vision statement might work for a tech startup, but for a bakery it’s too confusing. In this description, there is no mention of the fact that the business is a bakery.
+
+Option three comes across as arrogant and over-confident. It’s trying to provide a sales pitch, rather than explaining how the business could meet the customer’s need.
+
+
+
+
+------------------------------------------------------------------------------------------
+5. Make your website easy to use
+------------------------------------------------------------------------------------------
+
+Q. Visitors to your website should be able to navigate and interact with your site easily – that's called usability. Bring them back again and again by:
+	- providing simple and clear navigation
+	- creating a consistent layout
+	- writing relevant and effective content.
+
+A. Visitors to Addie’s website should be able to quickly find what they need. Addie can do this by using a side menu and a search bar. For best practice, these should stay in the same place on every page of the website.
+
+Visitors should also be able to get back to the homepage quickly. For a lot of websites this is done by selecting the logo.
+
+About Us information is useful for drawing people in but isn’t needed for every page.
+
+
+
+
+------------------------------------------------------------------------------------------
+6. Website design do’s and don’ts
+------------------------------------------------------------------------------------------
+
+Q. When designing your website, watch out for mistakes that often chase customers away. In this lesson, we'll outline some ways to avoid frustration, such as:
+	- quick-loading pages
+	- mobile-friendliness
+	- general accessibility.
+
+A. Here’s the right order:
+
+	- 2-minute HD advertising video for the bakery
+	- Large high-res, full-screen background image
+	- 20-second explainer animation
+	- Low-res compessed thumbnail image
+	- Twitter button that links to Twitter page
+	- Text descriptions
+	
+People expect websites to load quickly and might leave if they take too long, so you want to make pages load fast while keeping the overall design you want. Choosing the right media mix and hosting solution can help with this.
+
+You should design your web pages efficiently using compressed images and not too many large files such as videos. It’s good to test how long it takes for a business website to load on different devices and connections before it goes live.

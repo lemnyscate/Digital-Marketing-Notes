@@ -1,0 +1,96 @@
+------------------------------------------------------------------------------------------
+Introduction
+------------------------------------------------------------------------------------------
+
+Email marketing is a great way to connect and stay in touch with your customers. From building a contact list to learning how to design emails that really stand out, this topic will teach you the basics of effective email marketing campaigns.
+
+
+
+------------------------------------------------------------------------------------------
+1. Email marketing basics
+------------------------------------------------------------------------------------------
+
+Q. Sending newsletters and special offers to customers via email can play a key part in your overall marketing plan, building and strengthening relationships with your customers. In this video, we'll explore:
+    - developing a contact list
+    - targeting audiences based on interests
+    - building relationships with customers.
+
+A. You can use email marketing to tell customers about products and promotions, and even to send out discount vouchers and special offers. If you know some of your customers’ product preferences, you can send out emails with content tailored for them.
+
+Email marketing won’t let customers contact each other over email, and they’re often sent from a ‘no reply’ address, so customers wouldn’t be able to reply to them with problems or queries. A dedicated customer service email address would be better for that.
+
+
+
+------------------------------------------------------------------------------------------
+2. Your email marketing options
+------------------------------------------------------------------------------------------
+
+Q. Many email marketing software systems will guide you through the entire process of setting up an effective email campaign. You can monitor how recipients interact with your emails in order to personalise the content. In this video, you'll learn about:
+    - common features of email marketing tools
+    - benefits of tracking email recipient behaviours
+    - personalising content according to customer information
+
+A. Email marketing services can automatically personalise emails by including the customer’s name, but they’re not smart enough to write the whole email for you – yet!
+
+Some email marketing services are free, but some do charge. Do some research and find out which works best for you.
+
+
+
+------------------------------------------------------------------------------------------
+3. Crafting great marketing emails
+------------------------------------------------------------------------------------------
+
+Q. Your email marketing campaigns will change, but the goal remains the same. You want to craft attention-grabbing emails that encourage action. With a few tips, you can market your business like a pro. In this video, we'll explore how to:
+    - use subject lines to make a good first impression
+    - write concise content with strong calls to action
+    - include helpful links for customers.
+
+A. The best option uses the customer’s name and an engaging question or intriguing statement to get their attention. It’s also short and snappy.
+
+The less effective options (answers 2 and 3) aren’t very appealing. Using lots of pound symbols and exclamation marks can come across as unprofessional and salesy, and lots of email providers will automatically filter those emails straight into the spam folder.
+
+Spam Filters:
+    - Specials
+    - Percent off
+    - free
+    - reminder
+    - Pound Symbol
+    - Exclamation Mark
+
+
+
+------------------------------------------------------------------------------------------
+4. Managing successful email campaigns
+------------------------------------------------------------------------------------------
+
+Q. There’s a lot to manage when running an email campaign – use these strategies to set yourself up for success. Here we’ll explore how to:
+    - use A/B testing to improve engagement
+    - create relevant campaign landing pages
+    - measure the performance of your email campaigns.
+
+A. Analytics will give Steph the open rates (how many of her marketing emails are opened by customers) and clickthrough rates (how many customers have clicked links within her emails).
+
+Analytics can’t tell Steph how frequently her emails were moved straight into the trash by a potential customer.
+
+Remember that as well as the analytics described above, Steph can use web analytics to find out more about how customers interact with her site.
+
+Check out the analytics topics on the Digital Garage to find out more.
+
+
+
+------------------------------------------------------------------------------------------
+5. Measuring success in email marketing
+------------------------------------------------------------------------------------------
+
+Q. Knowing whether your email campaigns are successful will help you take the right actions when it comes time to improving them. In this lesson, we'll explore:
+    - why email metrics are important in evaluating campaign success
+    - five useful metrics that can help you understand email performance
+    - how to draw insights from the email metrics gathered.
+
+A. The clickthrough rate looks at the number of times someone has clicked on a link and gone through to your website – it doesn't tell you the cause for a lower or higher rate.
+
+Note:
+Develop three variations of an email campaign. In each email, change up the subject line, the headline and the key images. Measure which email performs better across all of the metrics we have covered in this lesson. Pay attention to metrics like:
+    - Open rate
+    - Click Through rate
+    - Bounce rate

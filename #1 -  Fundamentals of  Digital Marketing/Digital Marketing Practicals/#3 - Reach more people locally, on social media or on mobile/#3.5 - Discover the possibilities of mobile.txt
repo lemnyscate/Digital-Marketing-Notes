@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------
+1. The evolution of mobile devices
+------------------------------------------------------------------------------------------
+
+Keep track of the time you spend using your mobile device during one day. Write down the activity (email, phone call, taking pictures, etc.) and time spent during each session.
+
+
+
+
+------------------------------------------------------------------------------------------
+2.   Understanding mobile web and mobile apps
+------------------------------------------------------------------------------------------
+
+Use one of the free performance tools listed on the right to test your site. Note the recommended areas of improvement and make any necessary adjustments to your site.
+
+
+
+
+------------------------------------------------------------------------------------------
+3. Understanding mobile apps
+------------------------------------------------------------------------------------------
+
+Does your business have a mobile-optimised website and app? Access your site from your mobile device and see if it’s easy to use. If your business doesn’t currently have an app for mobiles, list any actions customers complete on your mobile site that can be integrated into an app in order to streamline the process.

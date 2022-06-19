@@ -1,0 +1,85 @@
+------------------------------------------------------------------------------------------
+Introduction
+------------------------------------------------------------------------------------------
+
+Knowing how to turn digital data into actionable insights can improve your online campaign results and help you meet your goals. In this topic, you'll learn about the data cycle, how to draw actionable insights from raw data, and which tools can help you manage digital data efficiently. We'll also cover how to present information in a way that will make the most impact with a target audience.
+
+
+
+------------------------------------------------------------------------------------------
+1. Using data to understand audiences
+------------------------------------------------------------------------------------------
+
+Q. Collecting and analysing data can offer many benefits to online businesses. To take advantage of these benefits, it's important to first understand the types of data available to you as well as the best way to gather it. In this lesson, we'll explore:
+    - the differences between quantitative and qualitative data
+    - how online data can be used to complement your offline business approach
+    - common ways to collect data.
+
+A. Analytics tools allow you to collect and review data in real time, enabling you to gain valuable insights by analysing this information.
+
+Data in itself doesn’t reach more customers, but understanding it could help you create a plan, or revise an approach, resulting in you reaching more customers.
+
+
+
+------------------------------------------------------------------------------------------
+2. Understanding the Data Cycle
+------------------------------------------------------------------------------------------
+
+Q. One of the benefits of working in the digital world is the amount of data and information available. This data can help you continuously improve what you do, allowing you to meet your goals. In this lesson, we'll explore:
+    - how the data cycle can help improve your efforts online
+    - which tools can be used to capture your data
+    - best practices to help you get the best results from the data collected.
+
+A. The data cycle is an effective process to help Jo make the most of data when running her campaign.
+
+The four main stages of a data cycle are as follows:
+
+Plan - Start by identifying the goals of the campaign
+Do - Then, begin collecting the relevant data
+Check - Once you have that, review your data
+Act - Lastly, take action to test the hypothesis.
+
+
+
+------------------------------------------------------------------------------------------
+3. Creating actionable insights from your data
+------------------------------------------------------------------------------------------
+
+Q. Actionable insights give you tangible actions to take away, and can be used to improve your website or online campaigns. In this lesson, we'll explore:
+    - what an actionable insight is, and how it differs from a regular insight
+    - how to take action based on the data you've analysed.
+
+A. Lee is having much more success on social media than he is via his emails. Focusing his attention on the platforms that are working for him will help increase his success.
+
+In addition, his audience are online between the hours of 5.00 p.m. and 7.00 p.m., which could be because they are commuters, or professionals who have finished work for the day. Optimising when he publishes his posts will also result in being able to reach more of his audience at the optimal/peak time.
+
+
+
+------------------------------------------------------------------------------------------
+4. Managing numbers using spreadsheets
+------------------------------------------------------------------------------------------
+
+Q. Sometimes having so much data at your disposal can seem a little overwhelming. Using spreadsheets gives you a way to manage this information and make the most of the data provided. In this lesson, we'll explore:
+    - what a spreadsheet is, and how you can use it to collate and analyse data
+    - basic spreadsheet formulas that can help make life easier.
+
+A. The correct graph clearly show a high open rate at the outset, which slowly drops off throughout the year. Graphs are a great way to quickly notice trends in your data.
+
+
+
+------------------------------------------------------------------------------------------
+5. Presenting data effectively
+------------------------------------------------------------------------------------------
+
+Q. Once you've gathered and analysed your data, the next step is knowing how to present it in a way that will resonate with your audience. In this lesson, we'll explore:
+    - how to present your data in a clear and understandable way
+    - popular visual formats to use when presenting data
+    - how to match your data to the right format, based on your audience's needs.
+
+A. The bar graph is the correct choice in this scenario. It clearly shows each year's data, and the growth experienced year to year.
+
+Pie charts are better for illustrating percentages, rather than growth or trends.
+
+The heat map can show location data, as well as increased demand for parking. However, the location data might not be useful to the investors, and it is harder to clearly see the year on year increase in this format.
+
+The table may have too much data to be clear and concise.

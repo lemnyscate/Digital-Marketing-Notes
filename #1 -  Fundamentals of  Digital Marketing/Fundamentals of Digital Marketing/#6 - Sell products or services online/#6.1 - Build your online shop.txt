@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------------------
+Introduction
+------------------------------------------------------------------------------------------
+
+Tap into the world of e-commerce and learn how to effectively sell your products online. From the tools you'll need to build your online shop from scratch, to payment methods and managing orders, this introductory topic will get you on your way.
+
+
+
+------------------------------------------------------------------------------------------
+1. Using e-commerce to sell
+------------------------------------------------------------------------------------------
+
+Q. Whether you’re a traditional retailer, a service business, a wholesaler or even an Internet start-up, there are many ways you can use e-commerce to reach more customers and increase sales. In this video, we’ll cover:
+    - what e-commerce is
+    - varying levels of e-commerce used in business
+    - how to match your needs to the options available.
+
+A. A good way to start selling products online is to allow visitors to pay for their purchases via the website, using an online money transfer provider such as PayPal.
+
+Getting feedback on blogs about her products or forums is great but isn’t directly linked to getting sales.
+
+
+
+------------------------------------------------------------------------------------------
+2. Taking payments and managing orders
+------------------------------------------------------------------------------------------
+
+Q. If you decide to sell products and services online, many tools and solutions are available to help. This video will walk you through:
+    - handling online payments
+    - managing orders.
+
+A. A fully functional online store doesn’t push customers towards over-the-phone payments, but it does make it easy to buy through the site itself.
+
+It gives you a backend system that allows you to easily manage orders and track shipping. You’ll then have control over the features of your online store, which will allow you to design it so that it feels more like a real shop for customers.

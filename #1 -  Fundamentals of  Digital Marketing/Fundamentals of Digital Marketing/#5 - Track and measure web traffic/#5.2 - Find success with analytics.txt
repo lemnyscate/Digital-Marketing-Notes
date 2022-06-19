@@ -1,0 +1,54 @@
+------------------------------------------------------------------------------------------
+Introduction
+------------------------------------------------------------------------------------------
+
+Analytics tools provide loads of data, but they don’t always give easy answers. Dive a little deeper into web analytics, and you'll soon be able to measure organic search analytics, understand SEM data and master segmentation techniques.
+
+
+
+------------------------------------------------------------------------------------------
+1. Web analytics and organic search
+------------------------------------------------------------------------------------------
+
+Q. Web analytics is great for measuring all kinds of traffic to your site, including traffic from organic search results. But you can do much more than just count up your website visitors. In this video, you'll learn:
+    - what kinds of data web analytics can give you about search traffic
+    - how to evaluate trends in your search traffic
+    - how to discover opportunities to make your website more relevant to searchers.
+
+A. Analytics can tell Linda a lot of interesting information about her organic search performance.
+
+However, it won’t tell her explicitly whether her site’s content is relevant to her keywords.
+
+To understand that, she can look at information such as how long visitors spend on her site, or the bounce rate, to see whether her site is giving her customers the information they are looking for.
+
+
+
+------------------------------------------------------------------------------------------
+2. Tools to measure SEM
+------------------------------------------------------------------------------------------
+
+Q. When it comes to SEM, you’re paying real money for every click that brings visitors to your website. Here’s how you can use web analytics to make sure you’re getting the most out of your investment. We’ll look at:
+    - which keywords are paying for themselves
+    - how to understand which ads are working
+    - how to use analytics to help you bid smarte
+
+A. Linda can use analytics data to see which of her SEM investments are working and which aren’t.
+
+The key is not just to track the number of clicks on an ad, but more importantly the conversion rate. So whilst the ‘Family friendly guesthouse’ campaign gets the most clicks, it needs work, because it has the lowest conversion rate of the three ads. That means people are clicking on the ad, but not booking a room as often as people who click on the other ads.
+
+
+
+------------------------------------------------------------------------------------------
+3. Breaking down your data for insights
+------------------------------------------------------------------------------------------
+
+Q. Analytics tools provide loads of data, but they don’t always give easy answers. To understand why things are happening differently for different groups, you can use a simple technique called segmentation. Here you’ll learn:
+    - what segmentation is
+    - why it’s valuable
+    - how to do it.
+
+A. Linda can get lots of data through segmentation, such as the devices her visitors use to access her website, and what country and city they’re accessing from. The number of clicks on a page is broad information that can still be segmented.
+
+Linda can use segmented information to find out where people are visiting her guesthouse from, and how many conversions she gets. She can also find out if many people book using their mobiles, or if they prefer booking on their computers.
+
+With this information Linda can make improvements to her website and keep monitoring results.

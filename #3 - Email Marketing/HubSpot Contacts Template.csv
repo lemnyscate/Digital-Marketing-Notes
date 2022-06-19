@@ -1,0 +1,26 @@
+First Name,Last Name,Email Address,Phone Number,City,Lifecycle Stage,Contact Owner,Favorite Ice Cream Flavor
+Rebekah,Wang (Sample Contact),rwang@redelivery.co.uk,815-245-4413,Cambridge,Subscriber,name@company.com,Vanilla
+Kerry,Summers (Sample Contact),ksummers@morningstar.com ,482-7768,New York City,Lead,name@company.com,Chocolate
+Santiago,Bourgault (Sample Contact),bourgault@sanctuary.it,482-7768,New York City,Opportunity,name@company.com,Coffee
+Sean,Garcia (Sample Contact),sean.garcia@komscore.fr,714-767-1517,Paris,Customer,name@company.com,Mint Chocolate Chip
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+PLEASE REMOVE THE BELOW INSTRUCTIONS BY DELETING LINES 11 & BELOW BEFORE UPLOADING THIS FILE TO HUBSPOT. ,,,,,,,
+,,,,,,,
+How to use this template...,,,,,,,
+,,,,,,,
+Feel free to replace the contact data above with your own data OR upload this template as is with the sample data provided,,,,,,,
+,,,,,,,
+What you should know:,,,,,,,
+,1. This template includes some HubSpot default contact properties (seen in the column headers). You can remove or add more properties to this file for import. See below to learn more about contact properties. ,,,,,,
+,"2. This template includes one example of a custom contact property: 'Favorite Ice Cream Flavour'. You can create this custom property, or one of your own, in HubSpot later during the import. ",,,,,,
+,"3. There are some default property values that you can not change, for example 'Lifecycle Stage'. These specific values are matched to HubSpot's CRM settings. See below to learn more. ",,,,,,
+,,,,,,,
+Helpful Knowledge Articles: ,,,,,,,
+,1. Preparing a file for import: https://knowledge.hubspot.com/crm-setup/set-up-your-import-file ,,,,,,
+,2. HubSpot's default contact properties: https://knowledge.hubspot.com/contacts/hubspots-default-contact-properties,,,,,,
+,3. How to delete sample contact records later in HubSpot: https://knowledge.hubspot.com/contacts/delete-crm-records ,,,,,,
+,4. About HubSpot's Lifecycle Stages: https://knowledge.hubspot.com/contacts/use-lifecycle-stages ,,,,,,

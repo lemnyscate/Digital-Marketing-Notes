@@ -1,0 +1,54 @@
+------------------------------------------------------------------------------------------
+Introduction
+------------------------------------------------------------------------------------------
+
+Web browsing on-the-go is very much a part of everyday life - which is why a mobile presence is important for businesses to embrace. Learn about mobile SEO. the differences between mobile sites and mobile apps, and which type of mobile marketing is right for your goals.
+
+
+
+------------------------------------------------------------------------------------------
+1. The evolution of mobile devices
+------------------------------------------------------------------------------------------
+
+Q. Today, people have so many different ways to access the Internet. We use computers, smartphones, tablets and now even smartwatches. Mobile marketing is constantly evolving; embrace it and your business will stay well ahead of the curve. In this lesson, you’ll learn:
+    - how mobile usage has changed in the last four decades
+    - what features are available on today’s mobile devices
+    - what the explosive growth of mobile use means for you.
+
+A. The first step for Phil would be to adjust his existing site to make it responsive. This would ensure it displays optimally to as many customers as possible across all devices.
+
+Creating a fully functional app is likely to be more time consuming and expensive than adjusting his existing site.
+
+
+
+------------------------------------------------------------------------------------------
+2.   Understanding mobile web and mobile apps
+------------------------------------------------------------------------------------------
+
+Q. When people search for businesses, they are quite likely to be searching on a mobile device. Search engines are adapting to this new approach, and businesses need to adapt as well. In this video, you'll learn about:
+    - search engines and the mobile searcher
+    - ways to make your website mobile-friendly
+    - what you should consider for mobile SEO.
+
+A. Website A takes the number one spot. It has clear navigation, and concise, easily visible content: perfect for mobile.
+
+Website B takes second position. It would be great for desktop, but those large images would take too long to load and some of the content would be tricky on a small screen.
+
+Website C is badly designed all round. There’s no clear navigation and it’s too content heavy.
+
+
+
+------------------------------------------------------------------------------------------
+3. Understanding mobile apps
+------------------------------------------------------------------------------------------
+
+Q. People interact with businesses through both mobile websites and mobile apps. Mobile-friendly websites are now a necessity, and many businesses can also benefit from a mobile app. In this lesson, you'll learn:
+    - the difference between mobile websites and mobile apps
+    - the benefits unique to mobile apps
+    - how to determine whether an app is right for you.
+
+A. A professional app developer or a self-service tool would be the best options here.
+
+Hiring a professional app developer is easier than you think and there are also plenty of options available to create one online yourself via a self-service tool.
+
+With limited technical knowledge, repurposing an old app, or creating one himself from scratch, would be very difficult.

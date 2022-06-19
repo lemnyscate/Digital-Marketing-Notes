@@ -1,0 +1,23 @@
+Google follows three basic steps to generate results from web pages:
+	1. Crawling
+	2. Indexing
+	3. Serving (and Ranking)
+
+1. Crawling
+   To Improve your site crawling
+	a. Make you site mobile-friendly
+	b. Submit sitemap of your site
+	c. Follow Google webmaster guidelines
+
+2. Indexing
+   To improve you page indexing
+	a. Create shortcut meaningful page titles
+	b. Use page headings that conveys the subject of the page.
+	c. Use text rather than images and use alt text and other useful attribues for 	    images or videos.
+
+3. Serving (and Ranking)
+   To improve your serving and ranking
+	a. Make your page fast to load, and mobile-friendly
+	b. Put useful content on your page and keep it up to date.
+	c. Follow the Google Webmaster Guidelines, which help ensure a good user experience.
+	d. Read more tips and best practices in our SEO starter guide.

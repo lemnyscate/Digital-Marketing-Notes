@@ -1,0 +1,58 @@
+------------------------------------------------------------------------------------------
+Introduction
+------------------------------------------------------------------------------------------
+
+Web analytics can provide a world of information when it comes to understanding your web users. By clearly outlining your business goals, you can then utilise analytics data to help you refine and improve your website and meet your objectives.
+
+
+
+------------------------------------------------------------------------------------------
+1. What is web analytics?
+------------------------------------------------------------------------------------------
+
+Q. Web analytics can answer questions about what people are doing – and not doing – on your website. In this video, you'll learn about:
+    - the kind of data web analytics can provide
+    - how to understand that data
+    - how simple it is to get started.
+
+A. Metrics are measurable, numerical data like time spent on site or pages viewed. Conversions are data on how many users have completed a desired action on your site, for example buying a product or signing up for a newsletter. Dimensions are groups of user data that can be used to generate a report, such as their device type or location.
+
+Imagine Linda had 1,000 visitors to her website last week – 1,000 is a metric. 500 of those visitors are from France, 300 from Italy and 200 from Germany. Those countries are dimensions - they organise visitors into groups sharing common characteristics, such as their country of origin.
+
+Finally, let’s say 300 of last week’s visitors signed up for Linda's newsletter. Those 300 signups are conversions - visitors who did something on Linda's website that is important for her business.
+
+
+
+------------------------------------------------------------------------------------------
+2. Making web analytics work for you
+------------------------------------------------------------------------------------------
+
+Q. One of the biggest benefits of going online is that digital marketing is extremely measurable. Throughout the entire customer journey, web analytics provides insight on where your website visitors are coming from, what they’re doing and how you can get more of them to “convert” on your site. In this video, we’ll cover:
+    - why web analytics underpins everything you do in digital
+    - the kinds of insights you can gain using analytics
+    - how to use data to support your business goals.
+
+A. Before making big changes like sending more newsletters or stopping them altogether, Linda should review the newsletters to find out why people are unsubscribing.
+
+How many is she sending a week? Is she sending too many? Is the content of the newsletters the best it can be?
+
+Linda should focus on improving the quality of the newsletters and monitor whether the numbers of people unsubscribing drops.
+
+
+
+------------------------------------------------------------------------------------------
+3. Tracking specific goals with web analytics
+------------------------------------------------------------------------------------------
+
+Q. Used properly, web analytics tools can give you valuable information to help you meet your objectives. You can do this by setting up your web analytics tool to track the specific goals that you care about. Here we’ll explore:
+    - examples of goals and conversions
+    - why it’s important to create and configure goals
+    - how to determine what your own goals and conversions should be.
+
+A. When it comes to analytics, it’s important to focus on the information that has the most impact on her business.
+
+In this case, Linda should focus less on the number of visits to the site or the amount of time people spend on it. It’s also not hugely important how many pages people look at on average.
+
+Instead, she should be monitoring specific goals like the percentage of orders that comes from customers on their smartphones, or the number of people who click on the content in her newsletters.
+
+This information is much more valuable as it gives feedback on the new elements she’s recently introduced to her business.

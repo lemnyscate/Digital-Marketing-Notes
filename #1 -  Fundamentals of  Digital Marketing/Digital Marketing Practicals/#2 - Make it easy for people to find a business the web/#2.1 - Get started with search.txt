@@ -1,0 +1,50 @@
+------------------------------------------------------------------------------------------
+1. Search engine basics
+------------------------------------------------------------------------------------------
+
+Think of something you'd like to research and try searching on a few different search engines. Compare the results. Can you find different types of information using different search engines?
+
+
+
+
+------------------------------------------------------------------------------------------
+2. How search engine work
+------------------------------------------------------------------------------------------
+
+Search for a few terms that interest you, or for the products and services that you sell. What types of results do you see on the search engine results pages? Do you notice things on top-ranked sites that might explain why they appear in such prominent positions? Make a wish list of content you might add to your website, so you'll have more opportunities to be in the index, and rank well on search results pages.
+
+
+
+
+------------------------------------------------------------------------------------------
+3. How search engines see the web
+------------------------------------------------------------------------------------------
+
+If you have a website, open a web page and view the source code for the page. How? If you’re using Google’s Chrome browser, you can find this by navigating to a web page, clicking “View” in Chrome’s top navigation, then selecting “Developer”, then “View Source”. Can you find your page titles, meta descriptions and images? Are there areas that need improvement?
+
+
+
+
+------------------------------------------------------------------------------------------
+4. Organic search explained
+------------------------------------------------------------------------------------------
+
+Think of some words and phrases you're interested in, then try a few searches for them to see what appears in the organic results. If you have a website, try searching for related keywords to see if you appear. You can also use a search operator to see if your pages are in the organic index. Search for this, replacing the bracketed text with your URL, to see what shows up: site:[your-website.com]
+
+
+
+
+------------------------------------------------------------------------------------------
+5. Paid search explained
+------------------------------------------------------------------------------------------
+
+The next time you search, take a moment to study the results page. Do you notice any ads? Can you see the correlation between your search and the ads you see on the page?
+
+
+
+
+------------------------------------------------------------------------------------------
+6. Google search console
+------------------------------------------------------------------------------------------
+
+Visit Google Webmasters and set up Google Search Console for your website. If you’ve already done that, review your reports to do a check-up on your website’s health and visibility in Google Search.

@@ -1,0 +1,29 @@
+1. Create Search Campaigns
+- Web traffic : Get more customers to learn about your new products
+- Leads : Gather contact details through a signup page
+- Sales : Encourage customers to complete a purchase
+
+2. How to get the right customers to see your ads
+- Create ad groups
+	For each ad group, she can create specific text ads and a list of search keywords — the words and phrases that will prompt her ads to show up. Since it’s best to create ad groups around themes or products, Hiroko’s plan is to create multiple ads groups, one for each of her bike types: kid's bikes, mountain bikes, and road bikes. This level of granularity gives her more control to get the right ad message to the right customers. 
+
+3. Fill the following options to create one of her text ads.
+	Headline - To catch her customers' attention
+	URL - To reach a particular page on the Your Adventure site
+	Description - To highlight the details of what Your Adventure is offering
+
+4. More Search Campaigns settings
+- Ad Extensions
+- Start and end date
+- Ad scheduling
+
+5. How do ads end up in front of customers?
+Step 1: A person performs a search
+Step 2: An auction starts
+Step 3: The Google Search engine ranks all the ads
+Step 4: A search turns into a sale
+
+
+
+
+

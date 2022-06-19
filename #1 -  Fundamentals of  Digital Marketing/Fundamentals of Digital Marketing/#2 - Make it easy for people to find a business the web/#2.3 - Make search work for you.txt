@@ -1,0 +1,64 @@
+------------------------------------------------------------------------------------------
+Introduction
+------------------------------------------------------------------------------------------
+
+Optimising web pages correctly means more people can find your content faster. There are lots of ways to achieve this, so choosing the most effective methods will save you time and resources. In this topic you'll learn how to master meta tags, backlinks, international SEO and more.
+
+
+
+------------------------------------------------------------------------------------------
+1. Making your web pages search friendly
+------------------------------------------------------------------------------------------
+
+Q. Get started in search engine optimisation by improving the pages on your website. This video explains the elements that you can tweak to make your website easier for search engines to understand. We'll cover:
+	- title and description meta tags
+	- heading elements
+	- page copy.
+
+A. The title and meta description are used by the search engine to generate the actual search result, so they’d appear in the search results page. In this case, Eric should use the phrase ‘fruit and vegetables’ in both his title and his meta data description.
+
+A good title shows the company name and highlights what the page would be about, like ‘Blake’s Produce: Fresh Fruit and Vegetables’.
+
+A good meta description is two short sentences that just summarise the page.
+______
+Note:
+------
+A good meta description is usually two short sentences. It should also reinforce the title by using the keyword or phrase again.
+
+
+
+------------------------------------------------------------------------------------------
+2. How other websites can work for you
+------------------------------------------------------------------------------------------
+
+Q. You can improve your search visibility across the web by thinking about off-site optimisation; that is, using what happens on other websites to promote yours. This video will show you some ways to start, including:
+	- encouraging links to your website
+	- engaging with your audience through good content
+	- promoting your site with social media.
+
+A. Eric needs to work hard to get backlinks – that means links to his site from other websites. To do that he needs to produce quality content, such as writing recipes. He can also encourage people to write about his business.
+
+Social media is a great way to improve his visibility, but search engines don’t recognise the number of likes or followers an account has, so this won’t help the search rankings.
+
+Eric should avoid creating artificial links to his website.
+
+
+
+------------------------------------------------------------------------------------------
+3. Cross borders with SEO
+------------------------------------------------------------------------------------------
+
+Q. Different countries require different marketing tactics, and international search engine optimisation is no different. In this lesson, you'll learn about changes to make when your website crosses international borders, including:
+	- language
+	- localisation
+	- country targeting.
+
+A. Search engine best practise is to create individual pages for each language that you wish to support on your website. Doing this will help ensure that Eric's website is correctly indexed by search engines.
+
+He should also avoid different languages on the same page as the search engine won’t be able to decide what language the content is in.
+
+Using an automated translator is sometimes seen as spam, so he should avoid that too.
+
+Language annotations are useful as they help the search engines serve up the correct content to the correct user in a particular country.
+
+ccTLD - Country Code Top-level Domain
